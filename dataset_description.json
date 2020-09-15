@@ -1,6 +1,14 @@
 {
     "BIDSVersion": "1.0.0",
     "Name": "Vocal task",
-    "Funding": ["Conacyt (IE252-120295 and 181508)",  "UNAM-DGAPA (I1202811 and IN212811)"],
-    "Authors": ["Arafat Angulo-Perkins", "Luis Concha"]
+    "Funding": [
+        "Conacyt (IE252-120295 and 181508)",
+        "UNAM-DGAPA (I1202811 and IN212811)"
+    ],
+    "Authors": [
+        "Arafat Angulo-Perkins",
+        "Luis Concha"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003146.v1.0.0",
+    "License": "CC0"
 }
